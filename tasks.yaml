@@ -1,0 +1,13 @@
+# Grant model: each task declares exactly which tools it may call.
+# Nothing here is a wildcard -- a tool not listed for a task can never be
+# called while the agent works on that task.
+tasks:
+  research:
+    description: "Summarize a topic from public sources"
+    tools:
+      - web_search
+      - read_file
+      - summarize
+  code-review:
+    description: "Read and test local code"
+    tools: [read_file, run_tests]

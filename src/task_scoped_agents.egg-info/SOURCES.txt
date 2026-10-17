@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/task_scoped_agents/__init__.py
+src/task_scoped_agents/agents.py
+src/task_scoped_agents/cli.py
+src/task_scoped_agents/enforcement.py
+src/task_scoped_agents/grants.py
+src/task_scoped_agents/registry.py
+src/task_scoped_agents.egg-info/PKG-INFO
+src/task_scoped_agents.egg-info/SOURCES.txt
+src/task_scoped_agents.egg-info/dependency_links.txt
+src/task_scoped_agents.egg-info/entry_points.txt
+src/task_scoped_agents.egg-info/top_level.txt
+tests/test_enforcement.py
