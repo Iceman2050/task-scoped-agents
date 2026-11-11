@@ -184,4 +184,4 @@ task-scoped-agents is built and maintained by **Ingenious AI**. Get early access
 MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Ingenious AI.
 
 
-> Built by Ingenious AI with Muse — get free tokens with invite code `2HCQH1`
+> Built by Ingenious AI
